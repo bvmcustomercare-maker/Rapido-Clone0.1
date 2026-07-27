@@ -1,0 +1,23 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+.env
