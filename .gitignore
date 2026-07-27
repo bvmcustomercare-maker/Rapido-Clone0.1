@@ -21,3 +21,8 @@ Thumbs.db
 
 # Local config
 .env
+
+# Android build artefacts
+/android/.gradle/
+/android/app/build/
+local.properties

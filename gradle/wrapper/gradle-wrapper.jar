@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# Placeholder Gradle wrapper jar (empty for CI to download actual distribution)
